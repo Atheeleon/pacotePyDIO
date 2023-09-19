@@ -2,7 +2,7 @@
 
 Description.
 
-Essa pacote busca dados da Receita Federal de CNPJs
+Busca dados de CNPJ na API Minha Receita e devolve um Array JSON
 
 ## Installation
 

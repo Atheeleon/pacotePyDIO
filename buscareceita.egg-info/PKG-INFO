@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: buscareceita
+Version: 0.0.1
+Summary: Busca dados de CNPJ na API Minha Receita e devolve um Array JSON
+Home-page: https://github.com/atheeleon/pacotePyDIO
+Author: Antonio
+Author-email: poeticum.visum@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# buscareceita
+
+Description.
+
+Busca dados de CNPJ na API Minha Receita e devolve um Array JSON
+
+## Installation
+
+Use o gerenciador de pacotes [pip] para installar 
+
+## Usage
+
+buscareceita(CNPJ)
+
+## Author
+Antonio
+

@@ -1,0 +1,8 @@
+README.md
+setup.py
+buscareceita/__init__.py
+buscareceita/buscareceita.py
+buscareceita.egg-info/PKG-INFO
+buscareceita.egg-info/SOURCES.txt
+buscareceita.egg-info/dependency_links.txt
+buscareceita.egg-info/top_level.txt
